@@ -1,0 +1,17 @@
+namespace: scl-ns
+
+replicaCount: 2
+
+deployment:
+  labels:
+    app: school-app
+container: school-app-container
+image: 
+  repository: rithika17/school-app
+  tag: v1.0.0
+Port: 8080
+
+service:
+  app: school-app
+  port: 81
+  targetPort: 81
