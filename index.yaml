@@ -3,6 +3,16 @@ entries:
   scl-app:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2026-03-03T03:51:53.962921611Z"
+    description: A Helm chart for Kubernetes
+    digest: 5d7e26282a69fca7b17a5e61d7c7d7f4463371f3839967eb944a3a9b5736e081
+    name: scl-app
+    type: application
+    urls:
+    - https://github.com/RithikaMurugannn/school-app/releases/download/scl-app-0.1.2/scl-app-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2026-03-02T05:21:57.815708182Z"
     description: A Helm chart for Kubernetes
     digest: 6fc8aa309b1f0d3726f4ca6a5ad4b95c7056a1a5095aba6d561398a08c24091f
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/RithikaMurugannn/school-app/releases/download/scl-app-0.1.1/scl-app-0.1.1.tgz
     version: 0.1.1
-generated: "2026-03-02T05:21:57.815714462Z"
+generated: "2026-03-03T03:51:53.962929876Z"
