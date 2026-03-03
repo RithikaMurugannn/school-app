@@ -1,6 +1,6 @@
 namespace: scl-ns
 
-replicaCount: 1
+replicaCount: 3
 
 deployment:
   labels:
